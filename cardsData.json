@@ -1,0 +1,39 @@
+{
+  "cards": [
+    {
+      "Title": "Components",
+      "Content": "Adding and nesting components",
+      "Url": "https://shaliniblog.hashnode.dev/react-02-components",
+      "Color": "#daffd5",
+      "id": 1
+    },
+    {
+      "Title": "UseStateHook",
+      "Content": "Using useState to change the state",
+      "Url": "https://hashnode.com/draft/643c9205a1e75f0010de17cb",
+      "Color": "#daffd5",
+      "id": 2
+    },
+    {
+      "Title": "Dependencies",
+      "Content": "npx create-react-app name\nnpm install react-bootstrap bootstrap\nnpm install react-hook-form",
+      "Url": "",
+      "Color": "#fa6b84",
+      "id": 3
+    },
+    {
+      "Title": "Form Validation",
+      "Content": "React hook form\nCreating local API",
+      "Url": "https://drive.google.com/file/d/1OCGTh1cAG5tGNIcDkkCjEtX0bqIDi-wc/view",
+      "Color": "#fafb92",
+      "id": 4
+    },
+    {
+      "Title": "UseEffectHook",
+      "Content": "Used to fetch data",
+      "Url": "https://hashnode.com/draft/643cd7e81cc3b400116839a4",
+      "Color": "#daffd5",
+      "id": 5
+    }
+  ]
+}
